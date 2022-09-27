@@ -3,7 +3,9 @@
 ---ALL VARIABLES DESCRIPTION---
 
 • Restaurant Id: Unique id of every restaurant across various cities of the world
+
 • Restaurant Name: Name of the restaurant
+
 • Country Code: Country in which restaurant is located
 • City: City in which restaurant is located
 • Address: Address of the restaurant
